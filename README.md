@@ -1,5 +1,5 @@
 # JonathanOliver
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu **perfil** 💙
 
 Meu nome é Jonathan, Professor da Escola Jardim Itaqua. Estamops Trabalhando com a [Alura](https://www.alura.com.br)
 
